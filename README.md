@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm  Sina<br><br>- 🔭 I’m working as Back_End developer</p>
+<p align="left">I'm  Sina<br><br>- 🔭 I’m working as Machinelearning intern</p>
 
 ###
 
